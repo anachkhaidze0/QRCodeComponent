@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit&display=swap');
+
+body {
+  background-color: hsl(212, 45%, 89%);
+  font-family: 'Outfit', sans-serif;
+}
+
+#main-text {
+  color: hsl(218, 44%, 22%);
+}
+
+#sub-text {
+  color: hsl(220, 15%, 55%);
+}
+
+#container-div{
+    height: 700px;
+}
+
